@@ -1,0 +1,41 @@
+Sunday
+==========================
+
+1V
+a1 Domine Clamavi ad te PM
+	an--domine_clamavi--dominican
+-a2 Portio mea Domine PM
+	AJ 1:126
+
+a3 Nonne sic oportuit PM
+	an--nonne_sic_oportuit--dominican
+
+Inv.
+-a Venite, exsultemus Domino (per 4 weeks)
+	AJ 1:60
+
+OL
+-a1 Secus decursus aquarum PM
+	AJ 1:*58
+-a2 Servite Domino PM
+	AJ 1:30
+-a3 Dominus defensor PM
+	AJ 1:60
+
+LM
+a1 Ad te de luce vigilo PM
+a2 Tres pueri iussu regis PM
+a3 Beneplacitum est Domino PM
+
+HM
+a1 Bonum est sperare PM
+a2 Fortitudo mea AV
+a3 Aperite mihi GR
+
+2V
+a1 Dixit Dominus PM
+a2 Deus autem noster PM
+a3 Salus et gloria (irregular)
+
+Monday
+==============================
