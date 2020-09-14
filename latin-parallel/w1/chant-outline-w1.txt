@@ -24,6 +24,7 @@ OL
 
 LM
 a1 Ad te de luce vigilo PM
+	an--ad_te..._vigilo--dominican
 a2 Tres pueri iussu regis PM
 a3 Beneplacitum est Domino PM
 
